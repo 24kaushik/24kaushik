@@ -1,11 +1,11 @@
 <h1 align="center">Hello! 👋, I'm Kaushik</h1>
 <h3 align="center">A passionate student from India!</h3>
 
-- 🌱 I’m currently working on **Chat App using MERN Stack**
+- 🌱 I’m currently learning **Express JS**
 
 - 👯 I’m looking to collaborate on **frontend projects with Reactjs**
 
-- 🤝 I’m looking for help with **fullstack development**
+- 🤝 I’m looking for help with **fullstack development (MERN)**
 
 - 💬 Ask me about **HTML, CSS, JS, React JS**
 
