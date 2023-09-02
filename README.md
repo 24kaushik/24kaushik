@@ -1,13 +1,13 @@
 <h1 align="center">Hello! 👋, I'm Kaushik</h1>
 <h3 align="center">A passionate student from India!</h3>
 
-- 🌱 I’m currently learning **MongoDB**
+<!-- - 🌱 I’m currently learning **MongoDB** -->
 
 - 👯 I’m looking to collaborate on **frontend projects with Reactjs**
 
 - 🤝 I’m looking for help with **fullstack development (MERN)**
 
-- 💬 Ask me about **HTML, CSS, JS, React JS**
+- 💬 Ask me about **HTML, CSS, JS/Node JS, React JS**
 
 - 📫 How to reach me **akaushikarkar@gmail.com**
 
