@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **frontend projects with Reactjs**
 
-- 🤝 I’m looking for help with **fullstack development (MERN)**
+- 🤝 I’m looking for help with **fullstack development (MERN Stack)**
 
 - 💬 Ask me about **HTML, CSS, JS/Node JS, React JS**
 
