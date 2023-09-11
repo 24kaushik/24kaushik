@@ -1,7 +1,7 @@
 <h1 align="center">Hello! 👋, I'm Kaushik</h1>
 <h3 align="center">A passionate student from India!</h3>
 
-<!-- - 🌱 I’m currently working on **[QuillQuest](https://github.com/24kaushik/QuillQuest)** -->
+- 🌱 I’m currently working on **My Portfolio**
 
 - 👯 I’m looking to collaborate on **MERN Projects**
 
