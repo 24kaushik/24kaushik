@@ -1,7 +1,8 @@
 <h1 align="center">Hello! 👋, I'm Kaushik</h1>
 <h3 align="center">A passionate student from India!</h3>
 
-- 🤓 I’m currently taking **CS50 Lecture 1** from **Harvard University** 
+- 🤓 I’m currently taking **CS50 Lecture 2**
+- * from **Harvard University** 
 
 - 🌱 I’m currently working on my **Portfolio**
 
