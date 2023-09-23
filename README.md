@@ -3,7 +3,7 @@
 
 - 🤓 I’m currently taking **CS50 Lecture 2** from **Harvard University** 
 
-- 🌱 I’m currently working on my **Portfolio**
+<!--- 🌱 I’m currently working on my **Portfolio**-->
 
 - 👯 I’m looking to collaborate on **MERN Projects**
 
