@@ -3,8 +3,6 @@
 
 - 🤓 I’m currently taking **CS50 Lectures** from **Harvard University** 
 
-<!--- 🌱 I’m currently working on my **Portfolio**-->
-
 - 👯 I’m looking to collaborate on **MERN Projects**
 
 - 🤝 I’m looking for help with **fullstack development (MERN Stack)**
