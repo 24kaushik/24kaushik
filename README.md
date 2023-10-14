@@ -1,6 +1,8 @@
 <h1 align="center">Hello! 👋, I'm Kaushik</h1>
 <h3 align="center">A passionate student from India!</h3>
 
+- 🥳 My **[Portfolio](https://portfolio-24kaushik.vercel.app/)**
+
 - 🤓 I’m currently taking **CS50 Lectures** from **Harvard University** 
 
 - 👯 I’m looking to collaborate on **MERN Projects**
