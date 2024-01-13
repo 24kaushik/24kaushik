@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **HTML, CSS, JS/Node JS, React JS**
 
-- 📫 How to reach me **akaushikarkar@gmail.com**
+- 📫 How to reach me **kaushik.s.contact@gmail.com**
 
 - ⚡ Fun fact **There are none :p**
 
