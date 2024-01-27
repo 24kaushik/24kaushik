@@ -1,5 +1,6 @@
 <h1 align="center">Hello! 👋, I'm Kaushik</h1>
 <h3 align="center">A passionate student from India!</h3>
+<h4 align="center">On a break. A long one. Will be back in april ;)</h4>
 
 - 🥳 My **[Portfolio](https://24kaushik.vercel.app/)**
 
@@ -16,6 +17,7 @@
 - ⚡ Fun fact **There are none :p**
 
 <h3 align="center">Connect with me:</h3>
+ok
 <p align="center">
     <a href="https://instagram.com/24__kaushik" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
