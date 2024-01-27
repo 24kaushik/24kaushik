@@ -17,7 +17,6 @@
 - ⚡ Fun fact **There are none :p**
 
 <h3 align="center">Connect with me:</h3>
-ok
 <p align="center">
     <a href="https://instagram.com/24__kaushik" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
