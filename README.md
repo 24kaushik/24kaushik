@@ -3,6 +3,8 @@
 
 - 🥳 My **[Portfolio](https://24kaushik.vercel.app/)**
 
+- 🌱 I'm currently learning **JAVA**
+
 - 👯 I’m looking to collaborate on **MERN Projects**
 
 - 🤝 I’m looking for help with **fullstack development (MERN Stack)**
