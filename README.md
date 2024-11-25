@@ -1,7 +1,7 @@
 <h1 align="center">Hello! 👋, I'm Kaushik</h1>
 <h3 align="center">A passionate student from India!</h3>
 
-- 🥳 My **[Portfolio](https://24kaushik.vercel.app/)**
+- 🥳 My **[Portfolio](https://kaushiksarkar.me/)**
 
 - 🌱 I'm currently learning **JAVA**
 
