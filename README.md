@@ -7,8 +7,6 @@
 
 - 👯 I’m looking to collaborate on **MERN Projects**
 
-- 🤝 I’m looking for help with **fullstack development (MERN Stack)**
-
 - 💬 Ask me about **HTML, CSS, JS/Node JS, React JS**
 
 - 📫 How to reach me **kaushik.s.contact@gmail.com**
