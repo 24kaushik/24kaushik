@@ -3,7 +3,7 @@
 
 - 🥳 My **[Portfolio](https://kaushiksarkar.me/)**
 
-- 🌱 I'm currently learning **JAVA**
+<!-- - 🌱 I'm currently learning **JAVA**  - on pause, too many things to learn, juggling between them -->
 
 - 👯 I’m looking to collaborate on **MERN Projects**
 
